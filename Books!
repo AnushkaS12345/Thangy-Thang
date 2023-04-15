@@ -38,19 +38,31 @@ h2 {
    
 }
 
+p {
+   color:#c6d2f6;
+   text-align: center;
+   
+}
+   
+
 </style>
 </head>
 <body>
 
 <h1>Books!!</h1>
-<p>Hello everyone! In this website, I will be talking about books! Things like good books recs, history of books, and why they are important!
+<p>Hello everyone! In this website, I will be talking about books! Things like good books recs, why books are important, and how books can help society!
 
 </p>
 
 
 <img src= "https://data.whicdn.com/images/292874277/original.jpg" width="460" height="345" class="center">
 
-<h2> History!! </h2>
+<h2> Why are Books Important? </h2>
+
+<p> Testing, testing   </p>
+
+
 
 </body>
 </html>
+
