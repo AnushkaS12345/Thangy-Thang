@@ -43,6 +43,25 @@ p {
    text-align: center;
    
 }
+
+h3 {
+   color: #ffdbe9;
+   text-align: center;
+   border-style: double;
+   border-color: #c6d2f6;
+
+}
+
+h4 {
+   color: #ffdbe9;
+   text-align: center;
+   border-style: double;
+   border-color: #c6d2f6;
+
+}
+   
+
+
    
 
 </style>
@@ -52,6 +71,8 @@ p {
 <h1>Books!!</h1>
 <p>Hello everyone! In this website, I will be talking about books! Things like good books recs, why books are important, and how books can help society!
 
+Presentation by: Anushka Sable
+
 </p>
 
 
@@ -59,7 +80,35 @@ p {
 
 <h2> Why are Books Important? </h2>
 
-<p> Testing, testing   </p>
+<p> Books are important because they can be used to improve our knowledge. Books are used in our daily lives and they can teach us about our world. They give you life lessons, and they even give you social and emotional knowledge as well. Books can also teach us about different cultures and they can be used for entertainment as well. Books can actually help improve your vocabulary as well! Books can teach us basic things, like how to cook a new recipe, and they can teach us complex things, like how to use advanced techniques with advanced machinery to orchestrate experiments that can help fight off many diseases.
+
+</p>
+
+
+<img src= "https://pm1.narvii.com/6321/b94c2ad4095f2c0c2ccad1ed503d47cebc89579a_hq.jpg" width= "460" height= "345" class= "center">
+
+<h3> How can Books Benefit our Society? </h3>
+<p> As stated above, books can teach us many things. This can benefit our society by providing us knowledge to create and solve many problems that can negatively impact humans. By learning information from books, we can gain a larger skillset that can be used for the greater good of the human race and it can make being alive more fun! </p>
+
+<img src= "https://www.shutterstock.com/image-vector/crowd-young-elderly-men-women-260nw-1864486600.jpg" width= "460" height= "345" class= "center">
+
+<h4> Fantastic Book Reccomendations </h4>
+<p> The Thousanth Floor - Catherine McGee</p>
+<p> The Dazzling Heights - Catherine McGee </p>
+<p> The Towering Sky - Catherine McGee </p>
+<p> The Cruel Prince - Holly Black </p>
+<p> The Wicked King - Holly Black </p> 
+<p> The Queen of Nothing - Holly Black </p>
+<p> Foul Lady Fortune - Chloe Gong </p>
+<p> Iron Widow - Xiran Jay Zhao </p> 
+<p> This Woven Kingdom - Tahereh Mafi </p>
+<p> Queen of the Tiles - Hanna Alkaf </p>
+<p> Red Queen - Victoria Aveyard </p>
+<p> Glass Sword - Victoria Aveyard </p>
+<p> King's Cage - Victoria Aveyard </p>
+<p> War Storm - Victoria Aveyard </p>
+<p> One of us is Lying - Karen M. McManus </p> 
+
 
 
 
